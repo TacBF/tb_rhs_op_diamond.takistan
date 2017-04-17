@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Op_Diamond">
+
+	<Key ID="STR_TB_missionTitle_TB_Op_Diamond">
+		<Original>Op_Diamond</Original>
+		<English>Op_Diamond</English>
+		<German>Op_Diamond</German>
+		<Italian>Op_Diamond</Italian>
+		<Spanish>Op_Diamond</Spanish>
+		<French>Op_Diamond</French>
+		<Czech>Op_Diamond</Czech>
+		<Russian>Op_Diamond</Russian>
+		<Polish>Op_Diamond</Polish>
+		<Hungarian>Op_Diamond</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Op_Diamond">
+		<Original>TacBF S&D[L-100]: Op_Diamond</Original>
+		<English>TacBF S&D[L-100]: Op_Diamond</English>
+		<German>TacBF S&D[L-100]: Op_Diamond</German>
+		<Italian>TacBF S&D[L-100]: Op_Diamond</Italian>
+		<Spanish>TacBF S&D[L-100]: Op_Diamond</Spanish>
+		<French>TacBF S&D[L-100]: Op_Diamond</French>
+		<Czech>TacBF S&D[L-100]: Op_Diamond</Czech>
+		<Russian>TacBF S&D[L-100]: Op_Diamond</Russian>
+		<Polish>TacBF S&D[L-100]: Op_Diamond</Polish>
+		<Hungarian>TacBF S&D[L-100]: Op_Diamond</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
